@@ -3,8 +3,8 @@
 
 Built with-
 
-*React
+*  React
 
--EmailJS
+-  EmailJS
 
-*SwiperJS
+*  SwiperJS
