@@ -5,6 +5,6 @@ Built with-
 
 *React
 
-*EmailJS
+-EmailJS
 
 *SwiperJS
