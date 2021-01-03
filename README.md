@@ -4,5 +4,7 @@
 Built with-
 
 *React
+
 *EmailJS
+
 *SwiperJS
